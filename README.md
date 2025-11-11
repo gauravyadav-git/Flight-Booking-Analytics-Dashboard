@@ -1,7 +1,7 @@
 # ✈️ Flight Booking Analytics Dashboard
 
 A Power BI dashboard analyzing 250 flight bookings to surface airline revenue, route performance, class mix, payment behavior, and age cohort insights for executive decision-making and transportation analytics use cases.  
-![Dashboard Screenshot]()
+![Dashboard Screenshot](Airline_Data_Analysis.png)
 
 ---
 
